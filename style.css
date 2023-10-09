@@ -35,3 +35,11 @@ ul{
     list-style: none;
     justify-content: space-around
 }
+
+footer{
+    background-color: #4df;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+}
