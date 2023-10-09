@@ -24,3 +24,10 @@ article{
     background: #4df;
     height: 10rem;
 }
+footer{
+    background: #4df;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    padding: 2rem;
+}
