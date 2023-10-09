@@ -23,6 +23,8 @@ h1{
 article{
     background: #4df;
     height: 10rem;
+    display: grid;
+    place-items: center;
 }
 .navBar{
     padding: 0.5rem;
