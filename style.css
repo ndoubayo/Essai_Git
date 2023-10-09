@@ -24,14 +24,3 @@ article{
     background: #4df;
     height: 10rem;
 }
-.navBar{
-    padding: 0.5rem;
-    font-size: 1.5rem;
-    background-color: #4df;
-    font-weight: bold;
-}
-ul{
-    display: flex;
-    list-style: none;
-    justify-content: space-around
-}
